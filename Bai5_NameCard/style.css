@@ -1,0 +1,23 @@
+.body {
+  padding: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.avatar {
+  width: 150px;
+}
+.card {
+ margin: 0 auto;
+  /* margin-top: auto;
+    margin-bottom: auto; */
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background: rebeccapurple;
+  border-bottom: 2px solid red;
+  text-align: center;
+}
+.blue-order {
+  border: 0px dotted blue;
+  margin-top: auto;
+  margin-bottom: auto;
+}
